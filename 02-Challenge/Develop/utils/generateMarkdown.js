@@ -46,12 +46,12 @@ This project is licensed under the ${license} license. Click [here](${renderLice
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  console.log(data);
   return `
   
-  ## title
-  ${data.title}
+  # ${data.title}
 
-  # description
+  ## description
 ${data.description}
 
 ## installation
@@ -78,4 +78,4 @@ ${renderLicenseSection(data.license)}
 `;
 }
 
-module.exports = generateMarkdown();
+module.exports = generateMarkdown;
