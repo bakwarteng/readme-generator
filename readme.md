@@ -13,7 +13,7 @@
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
-
+- [Video](#video)
 
 ## Description
 This is a CLI application that utilizes node.js and the inquirer package to generate a readme/markdown file based upon the user's input in the termininal .
@@ -33,7 +33,9 @@ This project is licensed under the Boost license. Click [here](https://www.boost
 Please contribute with permission from the author bakwarteng. 
 
 ## Tests
-You can install the application and test in your terminal. No tests were explicity coded.
+You can install the application and test in your terminal. No tests were explicitly coded.
 
 ## Questions
 For questions about this project, please contact [bakwarteng](https://github.com/bakwarteng).
+## Video
+https://app.screencastify.com/v3/watch/ESponYlx91KGTTqYjoAP
